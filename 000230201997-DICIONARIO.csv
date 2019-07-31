@@ -1,0 +1,20 @@
+car_lote_situacao;car_lote_topografia;car_lote_pedologia;car_lote_ocupacao;car_lote_passeio;car_lote_num_frente;car_lote_num_unidade;;car_situacao1;car_situacao2;car_carract;car_condicao;car_utilizacao;car_uso;car_estrutura;car_revestimento;car_piso;car_cobertura;car_forro;car_eletrica;car_sanitaria;car_garagem;car_elevador;car_conservacao;codigo_isencao
+1 - ENCRAVADO;1 - PLANO;1 - NORMAL;1 - BALDIO;1 - SEM;01 - Uma Frente;01 - 01 UNIDADES;;1 - FRENTE;1 - ISOLADA RECUADA;01 - CASA;1 - ALUGADA;1 - EM USO;1 - RESIDENCIAL;1 - CONCRETO;1 - SEM;1 - SEM;1 - PALMA;1 - SEM;1 - SEM;1 - SEM;1 - SEM;1 - SEM;1 - NOVO;1000 - ISENÇÃO
+2 - ESQUINA;2 - ACLIVE;2 - INUNDAVEL;2 - CONSTR.PARALISAD;2 - COM;02 - Duas Frentes;02 - 02 UNIDADES;;2 - FUNDOS;2 - ISOLADA ALINHADA;02 - DE TAIPA;2 - PROPRIA;2 - FECHADA ABANDON.;2 - INDUSTRIAL;2 - MADEIRA;2 - EMBOCO/REBOCO;2 - CIMENTO;2 - ZINCO;2 - MADEIRA;2 - APARENTE;2 - EXTERNA;2 - UMA;2 - UM;2 - BOM;1001 - ISENÇÃO DE BENS PÚBLICOS
+3 - VILA;3 - DECLIVE;3 - ALAG. BREJO;3 - EM DEMOLICAO;3 - MEIO-FIO;03 - TRES FRENTES;03 - 03 A 16 UNIDADES;;3 - GALERIA;3 - RECUADA GEMINADA;03 - CHOCA / BARRACO;3 - PARTE ALUGADA;3 - FECHADA VAZIA;3 - COMERCIAL;3 - ALVENARIA;3 - CAIACAO;3 - MAT. CERAMICO;3 - FIBRO CIMENTO;3 - CHAPAS;3 - EMBUTIDA;3 - INTERNA SIMPLES;3 - MAIS DE UMA;3 - MAIS DE UM;3 - REGULAR;1002 - 76
+4 - LOGR. SECUNDARIO;4 - TOPOG.IRREGULAR;4 - ROCHOSO;4 - EM CONSTRUCAO;;04 - Quatro ou Mais Frentes;04 - 17 A 40 UNIDADES;;4 - VILA;4 - ALINHADA GEMINADA;04 - APARTAMENTO;4 - CEDIDA;4 - VERANEIO;4 - SERVICOS;4 - METALICA;4 - OLEO;4 - TACO OU MADEIRA;4 - TELHA;4 - ESTUQUE;;4 - INTERNA COMPLETA;;;4 - MAU;1003 - 72 - IMUNIDADE COM COBR. DE TCIL
+5 - GLEBA;;5 - COMB. DOS DEMAIS;5 - RUINAS;;;05 - MAIS DE 40 UNIDADES;;5 - SUBSOLO;5 - ISOLADA SUPERP.;05 - SOBRELOJA;;;5 - ATV.RELIGIOSAS;;5 - MADEIRA;5 - MAT. PLASTICO;5 - LAJE;5 - LAJE;;5 - DUAS;;;;1004 - ART. 6° INCISO I
+6 - NORMAL;;6 - NON AEDIFICANDI;6 - CONSTRUIDO;;;;;6 - COND. HORIZONTAL;6 - SUPERP. GEMINADA;06 - CONJ. DE SALAS;;;6 - ATV.CULT.E.DIV.;;6 - MAT. CERAMICO;6 - ESPECIAL;6 - ESPECIAL;;;6 - TRES;;;;1006 - TCIL - NÃO INCIDÊNCIA - ART. 171, § 1º
+;;;7 - REFORMA;;;;;;7 - RECUADA SUPERP.;07 - CONST. ESPECIAL;;;7 - TRANSP.-COMUNIC.;;7 - ESPECIAL;;;;;7 - MAIS DE TRES;;;;60 - 60 - Lei 1763/99 e Dec. 8209/00
+;;;8 - ESTACIONAMENTO DESCOBERTO;;;;;;8 - ALINHADA SUPERP.;08 - SALA COMERCIAL;;;8 - TERRENO;;;;;;;;;;;63 - 63 - Lei 2754/10 art. 1° inciso IV
+;;;;;;;;;9 - COBERTURA;09 - TELHEIRO;;;;;;;;;;;;;;64 - 64 - Lei 2754/10 art. 1° inciso IV
+;;;;;;;;;;10 - GALPAO FECHADO;;;;;;;;;;;;;;72 - 72 - Art 150 inciso VI da constituição
+;;;;;;;;;;11 - GALPAO ABERTO;;;;;;;;;;;;;;74 - 74 - ART. 6° INCISOS III,IV,V,VIII
+;;;;;;;;;;12 - ED. GARAGEM;;;;;;;;;;;;;;75 - 75
+;;;;;;;;;;13 - ESTACIONAMENTO;;;;;;;;;;;;;;76 - 76 - Art 6° inciso VII Lei 2597/08
+;;;;;;;;;;14 - LOJA;;;;;;;;;;;;;;77 - 77 - Art 6° inciso VI Lei 2597/08
+;;;;;;;;;;15 - SALA/SERVICOS;;;;;;;;;;;;;;78 - 78 - Art 6° inciso II Lei 2597/08
+;;;;;;;;;;;;;;;;;;;;;;;;82 - 82 - Art. 150 inciso VI da Constituiç
+;;;;;;;;;;;;;;;;;;;;;;;;84 - 84 - Art 6° inciso VIII Lei 2597/08
+;;;;;;;;;;;;;;;;;;;;;;;;86 - INCRA - NÃO INCIDÊNCIA
+;;;;;;;;;;;;;;;;;;;;;;;;99 - 99 - ISENCAO NON AEDIFICANDI
