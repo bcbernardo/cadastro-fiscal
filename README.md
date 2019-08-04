@@ -11,11 +11,14 @@ fornecidas.
 
 
 ## Como usar
-A base é constituída de dois arquivos. O arquivo __DICIONARIO.csv__ contém legendas
+A base é constituída de dois arquivos. O arquivo __dicionario.csv__ contém legendas
 para os campos que utilizam códigos numéricos para designar dados qualitativos.
-Já o arquivo __DADOS.csv__ contém a base de dados propriamente dita, com todos 
-os registros de imóveis e suas respectivas características. A codificação dos 
-caracteres é UTF-8, e o separador é o caractere ponto-e-vírgula (';').
+Já o arquivo __dados.csv__ contém a base de dados propriamente dita, com todos 
+os registros de imóveis e suas respectivas características. 
+
+A codificação dos caracteres é UTF-8. O delimitador e o separador de decimais é 
+vírgula (','), de modo que os valores podem estar encapsulados entre aspas duplas, 
+para evitar ambiguidades.
 
 
 ## Metadados
@@ -29,5 +32,5 @@ Nem todos os campos se encontram devidamente descritos no dicionário de dados.
 Estamos buscando contato com a SMF para perguntar o significado de alguns campos
 cujos títulos estão abreviados.
 
-Para fins de registro, o arquivo __PEDIDO-ACESSO__ contém o relatório do pedido de
-acesso à informação que gerou a extração aqui reproduzida.
+Para fins de registro, o arquivo __pedido-acesso_000230201997__ contém o relatório do 
+pedido de acesso à informação que gerou a extração aqui reproduzida.
